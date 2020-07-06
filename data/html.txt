@@ -1,0 +1,56 @@
+<!DOCTYPE doctype html>
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>新冠肺炎疫情防控辟谣专区</title>
+<meta content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" name="viewport">
+<meta content="egde" http-equiv="X-UA-Compatible"/>
+<meta content="webkit" name="renderer"/>
+<link href="http://www.piyao.org.cn/global/public/css/common.css" rel="stylesheet"/>
+<link href="css/main.css" rel="stylesheet"/>
+</meta></head>
+<body class="sub-txt">
+<div class="banner"> <img class="domMobile" src="images/bannerWeb.jpg" width="100%"/>
+<div class="search">
+<input class="inputTxt" placeholder="请输入想要查找的内容" type="text"/><span class="inputSub">查证</span>
+</div>
+</div>
+<div class="main">
+<div class="partList">
+<div class="linkArea"> <a href="http://www.piyao.org.cn/xxjbrk.htm" target="_blank"><img src="images/link1.gif"/></a> <a href="http://fms.news.cn/swf/2020_sjxw/2_1_xgyq/index.html" target="_blank"><img src="images/link2.gif"/></a> <a href="https://sa.sogou.com/new-weball/page/sgs/epidemic/xhw?type_page=xhw&amp;share_device_token=0A7282FA-B6B4-4B59-B4E1-89CF6068153C&amp;share_time=1580390613232&amp;share_type=1&amp;from=groupmessage" target="_blank"><img src="images/link3.gif"/></a> </div>
+<div class="listArea">
+<ul class="list">
+</ul>
+<div class="more">显示更多</div>
+</div>
+</div>
+<div class="partSearchList" style="display:none">
+<!-- 搜索篇数 -->
+<div class="search_num clearfix"><span>以下是为您查证的内容：</span></div>
+<!-- END -->
+<!-- 搜索内容 -->
+<ul class="list search_list">
+</ul>
+<!-- END -->
+<!-- 分页 -->
+<div class="fenye clearfix"> </div>
+</div>
+</div>
+<span class="backHome">返回首页</span>
+<div class="hide getid" data-des="存放栏目id">11215616</div>
+<script src="http://www.piyao.org.cn/global/lib/jq/jquery1.12.4/jquery1.12.4.min.js"></script>
+<script src="http://www.xinhuanet.com/global/lib/xpage/xpage.min.js"></script>
+<script src="showData.js"></script>
+<script src="rumer_search_global_new.js"></script>
+<!--微信分享图功能-->
+<div class="share-title" style="display:none">
+新冠肺炎疫情防控辟谣专区
+</div>
+<div class="share-substr" style="display:none">转发权威辟谣，抵制疫情谣言。中国互联网联合辟谣平台持续更新。</div>
+<img class="share-img" height="300" src="http://www.piyao.org.cn/2020yqpy/sharelogo.jpg" style="display:none" width="300">
+<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script src="http://www.piyao.org.cn/static/js/wxShare.js"></script>
+<!--微信分享图功能-->
+<div style="display:none"><div id="fwl">030020040100000000000000011200000000000000</div><script src="http://webd.home.news.cn/webdig.js?z=1" type="text/javascript"></script><script type="text/javascript">wd_paramtracker("_wdxid=030020040100000000000000011200000000000000")</script><noscript><img border="0" src="http://webd.home.news.cn/1.gif?z=1&amp;_wdxid=030020040100000000000000011200000000000000"/></noscript></div> </img></body>
+</html>

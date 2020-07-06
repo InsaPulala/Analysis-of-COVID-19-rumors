@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8"/><meta content="1210609423.13.3.0" name="publishid"/>
+<meta content="谣言" name="tags"/>
+<meta content="11322.11172.0.0.11160970.0.0.0.0.0.114139.1210609423" name="pageid"/>
+<meta content="" name="publishid"/>
+<meta content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" name="viewport"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="IE=edge, chrome=1" http-equiv="X-UA-Compatible"/>
+<script src="http://www.xinhuanet.com/global/js/pageCore.js"></script>
+<title>
+武汉实验室“失误证据”被外媒公开？谣言-中国互联网联合辟谣平台
+</title>
+<meta content=" " name="description"/>
+<link href="http://www.piyao.org.cn/global/public/css/common.css" rel="stylesheet"/>
+<link href="http://www.piyao.org.cn/index/css/top.css" rel="stylesheet"/>
+<link href="http://www.piyao.org.cn/css/xl.css" rel="stylesheet"/>
+<style>
+/*视频*/
+#videoArea { position: relative; text-align: center; width: 650px; height: 450px; margin: 0 auto; }
+#videoArea img { cursor: pointer; }
+#videoArea iframe { position: absolute; left: 0; top: 0; width: 100%; height: 100%; z-index: 999; }
+#share { padding-top:30px; float:left; }
+@media screen and (min-width:0px) and (max-width: 767px) {
+.bdsharebuttonbox{ display:none;}
+/*视频*/
+#videoArea { position: relative; text-align: center; width: 100%; height: 200px; margin: 0 auto; }
+#videoArea img { cursor: pointer; }
+#videoArea iframe { position: absolute; left: 0; top: 0; width: 100%; height: 100%; z-index: 999; }	
+.i35 img { width:35% !important; }
+.i30 img { width:30% !important; }
+.i40 img { width:40% !important; }
+}
+</style>
+<script src="http://www.piyao.org.cn/global/lib/jq/jquery1.12.4/jquery1.12.4.min.js"></script>
+<script src="http://www.piyao.org.cn/piyaogov/js/scrolltopcontrol.js"></script>
+</head>
+<body>
+<style>
+@media screen and (min-width:0px) and (max-width: 767px) {
+.i35 img { width: 35% !important; }
+.i30 img { width: 30% !important; }
+.i40 img { width: 40% !important; }
+}
+</style>
+<div class="domPC">
+<!-- banner -->
+<div class="banner">
+<div class="content clearfix">
+<div class="sousuo" style="">
+<form action="http://www.piyao.org.cn/searchresult.htm" target="_blank">
+<input name="kw" placeholder="辟谣平台" type="text" value=""/>
+<input id="sbm" style="display:none;" type="submit"/>
+<label for="sbm"> </label>
+<div class="img"><img height="32" src="http://www.piyao.org.cn/index/images/souas.png" width="42"/></div>
+</form>
+</div>
+</div>
+<div class="ewm hide"> <img height="191" src="http://www.piyao.org.cn/index/images/ewm.png" width="165"/> </div>
+</div>
+<!-- END -->
+<!-- 导航 -->
+<div class="nav_box">
+<div class="content">
+<ul class="nav_list">
+<li> <a href="http://www.piyao.org.cn/index.htm" target="_blank">首页</a> </li>
+<li> <a href="http://www.piyao.org.cn/pyjj.htm" target="_blank">权威发布</a> </li>
+<li> <a href="http://www.piyao.org.cn/bwfb.htm" target="_blank">部委发布</a> </li>
+<li> <a href="http://www.piyao.org.cn/dfhy.htm" target="_blank">地方回应</a> </li>
+<li> <a href="http://www.piyao.org.cn/mtqz.htm" target="_blank">媒体求证</a> </li>
+<li> <a href="http://www.piyao.org.cn/zjsj.htm" target="_blank">专家视角</a> </li>
+<li> <a href="http://www.piyao.org.cn/pykt.htm" target="_blank">辟谣课堂</a> </li>
+<li> <a href="http://www.piyao.org.cn/jdal.htm" target="_blank">案例分类</a> </li>
+<li> <a href="http://www.piyao.org.cn/zxzj.htm" target="_blank">真相直击</a> </li>
+<li> <a href="http://www.piyao.org.cn/dtsy.htm" target="_blank">读图识谣</a> </li>
+<li> <a href="http://www.piyao.org.cn/flfg.htm" target="_blank">法律法规</a> </li>
+<li class="nobor"> <a href="http://www.piyao.org.cn/gzdt.htm" target="_blank">工作动态</a> </li>
+</ul>
+</div>
+</div>
+<!-- END -->
+</div>
+<div class="domMobile">
+<!-- banner -->
+<div class="banner"> <img src="http://www.piyao.org.cn/index/images/mb_banner.png"/> </div>
+<!-- END -->
+<!-- 导航 -->
+<div class="iphone style-1">
+<div class="iphone__screen">
+<a class="nav__trigger" href="#"><span class="nav__icon"></span></a>
+<nav class="nav">
+<ul class="nav__list">
+<li>
+<i><img src="http://www.piyao.org.cn/index/images/nav-01.png"/></i>
+<p> <a href="http://www.piyao.org.cn/index.htm">首页</a> </p>
+</li>
+<li>
+<i><img src="http://www.piyao.org.cn/index/images/nav-02.png"/></i>
+<p> <a href="http://www.piyao.org.cn/pyjj.htm">权威发布</a> </p>
+</li>
+<li>
+<i><img src="http://www.piyao.org.cn/index/images/nav-03.png"/></i>
+<p> <a href="http://www.piyao.org.cn/xxjbrk.htm">举报入口</a> </p>
+</li>
+<li>
+<i><img src="http://www.piyao.org.cn/index/images/nav_rd.png"/></i>
+<p> <a href="http://www.piyao.org.cn/rdtj.htm">热点推荐</a> </p>
+</li>
+<li>
+<i class="i35"><img src="http://www.piyao.org.cn/index/images/nav-05.png"/></i>
+<p> <a href="http://www.piyao.org.cn/bwfb.htm">部委发布</a> </p>
+</li>
+<li>
+<i><img src="http://www.piyao.org.cn/index/images/nav-06.png"/></i>
+<p> <a href="http://www.piyao.org.cn/dfhy.htm">地方回应</a> </p>
+</li>
+<li>
+<i class="i30"><img src="http://www.piyao.org.cn/index/images/nav-07.png"/></i>
+<p> <a href="http://www.piyao.org.cn/mtqz.htm">媒体求证</a> </p>
+</li>
+<li>
+<i><img src="http://www.piyao.org.cn/index/images/nav-08.png"/></i>
+<p> <a href="http://www.piyao.org.cn/zjsj.htm">专家视角</a> </p>
+</li>
+<li>
+<i class="i40"><img src="http://www.piyao.org.cn/index/images/nav-04.png"/></i>
+<p> <a href="http://www.piyao.org.cn/zxzj.htm">真相直击</a> </p>
+</li>
+<li>
+<i><img src="http://www.piyao.org.cn/index/images/nav-09.png"/></i>
+<p> <a href="http://www.piyao.org.cn/dtsy.htm">读图识谣</a> </p>
+</li>
+<li>
+<i><img src="http://www.piyao.org.cn/index/images/nav-10.png"/></i>
+<p> <a href="http://www.piyao.org.cn/jdal.htm">案例分类</a> </p>
+</li>
+<li>
+<i><img src="http://www.piyao.org.cn/index/images/nav-11.png"/></i>
+<p> <a href="http://www.piyao.org.cn/pykt.htm">辟谣课堂</a> </p>
+</li>
+<li>
+<i><img src="http://www.piyao.org.cn/index/images/nav-12.png"/></i>
+<p> <a href="http://www.piyao.org.cn/frontsql.htm">辟谣数据库</a> </p>
+</li>
+<li>
+<i><img src="http://www.piyao.org.cn/index/images/nav-13.png"/></i>
+<p> <a href="http://www.piyao.org.cn/gzdt.htm">工作动态</a> </p>
+</li>
+<li>
+<i><img src="http://www.piyao.org.cn/index/images/nav-14.png"/></i>
+<p> <a href="http://www.piyao.org.cn/flfg.htm">法律法规</a> </p>
+</li>
+</ul>
+</nav>
+<div class="iphone__content"></div>
+</div>
+</div>
+<!-- END -->
+</div>
+<div class="content">
+<div class="dqwz"> <a href="http://www.piyao.org.cn/index.htm" target="_blank">首页<span class="location-i">&gt;</span></a>正文 </div>
+<!-- 左栏 -->
+<div class="con_left left">
+<div class="con_nr">
+<div class="con_tit">
+<h2>
+武汉实验室“失误证据”被外媒公开？谣言
+</h2>
+<p>
+来源： 外交部发言人办公室<span>时间：  2020-05-08</span>
+</p>
+</div>
+<div class="con_txt">
+<div id="videoArea">
+<span style="display:none;">
+</span>
+</div>
+<p>　　在5月7日外交部例行记者会上，有记者问：据英国《每日电讯报》5月4日报道，英国智库亨利·杰克逊研究学会亚洲研究中心发现了一段中国武汉实验室视频，证明武汉病毒学研究所在处理致命的新冠病毒毒株时，没有遵循基本的生物安全秩序，有可能导致了病毒的传播，中方对此有何评论？</p>
+<p>　　华春莹：报道中提到的亨利·杰克逊研究学会，这个组织一贯的对华态度代表了一些极端反华势力的心声和想象。</p>
+<p>　　关于针对武汉病毒研究所的谣言，武汉病毒研究所研究员、武汉国家生物安全实验室主任袁志明先生近日在接受路透社采访时已经作了全面回应。他明确指出，该实验室严格执行生物安全程序，高等生物安全实验室具有先进防护设施和严格措施，目的就是为了保证实验人员和环境的安全。</p>
+<p>　　我们向有关部门了解核实了你提到的视频。情况是这样的：有关视频并不涉及武汉病毒研究所人员及其科研活动，武汉病毒研究所的网站上也从来没有发布过此视频信息。据查，有关视频来源于一个科普纪录片《旷野青春》，视频所涉及人员来自武汉市疾控中心。与此相似的还有一张照片，拍摄于2007年夏天，地点是海南省。</p>
+</div>
+<div id="share left">
+<div class="bdsharebuttonbox"><a class="bds_more" data-cmd="more" href="javascript:void()" target="_blank"></a><a class="bds_xinhua" data-cmd="xinhua" href="javascript:void()" target="_blank" title="分享到新华微博"></a><a class="bds_qzone" data-cmd="qzone" href="javascript:void()" target="_blank" title="分享到QQ空间"></a><a class="bds_tsina" data-cmd="tsina" href="javascript:void()" target="_blank" title="分享到新浪微博"></a><a class="bds_weixin" data-cmd="weixin" href="javascript:void()" target="_blank" title="分享到微信"></a></div>
+</div>
+<div class="zrbj right">
+责任编辑：  殷荧
+</div>
+<div class="clearfix"></div>
+<style>
+.btmbox{ width:100%; height:38px;}
+.btmbox .jbrk_box{ width:150px; height:38px; float:left;}
+.btmbox .jbrk_box img{ width:100%; height:auto;}
+.telbox{ background:url(http://www.piyao.org.cn/20190620/img/phone.jpg) top left no-repeat; height:38px; line-height:38px; font-size:18px; font-weight: normal; padding-left:44px; margin-left:15px;}
+@media screen and (min-width:0px) and (max-width: 767px) {
+.btmbox{ width:100%; height: auto;}
+.btmbox .jbrk_box{ width:60%; height: auto; margin:0 auto; float:none;}
+.btmbox .jbrk_box img{ width:100%; height:auto;}
+.telbox{ background:url(http://www.piyao.org.cn/20190620/img/phone.jpg) top left no-repeat; background-size:contain; height:auto;font-size:18px; font-weight:bold; height:30px; line-height:30px; padding-left:40px; margin-left:15px; float:none; width:62%; margin:10px auto 0 auto;}
+}
+</style>
+<div class="btmbox">
+<div class="jbrk_box left"> <a href="http://www.piyao.org.cn/xxjbrk.htm" target="_blank"> <img height="76" src="http://www.piyao.org.cn/index/images/yy_zxtj.png" width="300"/></a> </div>
+<!--<div class="telbox left">热线：010-88050300</div>-->
+</div>
+</div>
+</div>
+<!-- END -->
+<!-- 右栏 -->
+<div class="con_right right domPC">
+<div class="part3">
+<!-- 辟谣课堂 -->
+<div class="bykt_box">
+<div class="dh_box">
+<h2><i></i>辟谣课堂 <span><a href="http://www.piyao.org.cn/pykt.htm" target="_blank">更多 &gt;&gt;</a></span></h2>
+</div>
+<div class="zxzj_img">
+<a href="http://www.piyao.org.cn/2020-03/20/c_1210523080.htm" target="_blank">
+<img alt="批量造谣的营销号 就得连锅端" border="0" height="188" src="../../titlepic/1210523080_1584695567706_title1n.jpg" width="286"/>
+<div class="title">批量造谣的营销号 就得连锅端</div>
+<div class="bg"></div>
+</a>
+</div>
+</div>
+<!-- END -->
+<!-- 真相直击 & 读图识谣 -->
+<div class="zxzj_box">
+<div class="dh_box">
+<h2><i></i>真相直击 <span><a href="http://www.piyao.org.cn/zxzj.htm" target="_blank">更多 &gt;&gt;</a></span></h2>
+</div>
+<div class="zxzj_img">
+<a href="http://www.piyao.org.cn/2020-04/08/c_1210548505.htm" target="_blanak">
+<img alt="别抢了，够吃" border="0" height="188" src="../../titlepic/1210548505_1586307052502_title1n.jpg" width="286"/>
+<div class="title">别抢了，够吃</div>
+<div class="play"><img height="68" src="http://www.piyao.org.cn/index/images/zxzj_play.png" width="68"/></div>
+<div class="bg"></div>
+</a>
+</div>
+<div class="zxzj_box">
+<div class="dh_box">
+<h2><i></i>读图识谣 <span><a href="http://www.piyao.org.cn/dtsy.htm" target="_blank">更多 &gt;&gt;</a></span></h2>
+</div>
+<div class="zxzj_img">
+<a href="http://www.piyao.org.cn/2020-03/08/c_1210505530.htm" target="_blank">
+<img alt="奋战网课，孩子的视力该如何守护？" border="0" height="188" src="../../titlepic/1210505530_1583649313611_title1n.jpg" width="286"/>
+<div class="title">奋战网课，孩子的视力该如何守护？</div>
+<div class="bg"></div>
+</a>
+</div>
+<!-- END -->
+</div>
+</div>
+</div>
+</div>
+<!-- END -->
+</div>
+<div class="clearfix"></div>
+<!-- footer -->
+<script src="http://www.piyao.org.cn/js/footer.js"></script>
+<!-- END -->
+<!--微信分享图功能-->
+<div class="share-title" style="display:none">
+武汉实验室“失误证据”被外媒公开？谣言
+</div>
+<div class="share-substr" style="display:none">转发权威辟谣，抵制网络谣言。</div>
+<img class="share-img" height="300" src="http://www.piyao.org.cn/2020yqpy/sharelogo.jpg" style="display:none" width="300"/>
+<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script src="http://www.piyao.org.cn/static/js/wxShare.js"></script>
+<!--微信分享图功能-->
+<script>
+//导航
+$(function(){
+	$('.nav__trigger').on('click', function(e){
+	  e.preventDefault();
+	  $(this).parent().toggleClass('nav--active');
+	});
+})
+$(function() {
+	//验证视频
+	var spSrc = $.trim($("#videoArea span").html());
+	if (spSrc == "") {
+		$("#videoArea").hide();
+		}
+		if (spSrc == "组件解释结果为空") {
+		$("#videoArea").hide();
+		}
+	if(spSrc.indexOf("http:") >= 0){
+		var spHtml = '<iframe marginheight="0" id="ifr_video" marginwidth="0" frameborder="0" src="'+spSrc+'"></iframe>';
+		$("#videoArea").show().append(spHtml);
+	}
+});
+function baidushare() {
+    window._bd_share_config = {
+        "common": {
+            "bdSnsKey": {},
+            "bdText": "",
+            "bdMini": "2",
+            "bdMiniList": false,
+            "bdPic": "",
+            "bdStyle": "0",
+            "bdSize": "24"
+        },
+        "share": {}
+    };
+    with(document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];
+}
+function init() {
+    baidushare();
+    // xyzNav();
+    setQrcodeEl({
+        obj: ".qrcode img"
+    });
+}
+
+init();
+</script>
+<div style="display:none"><div id="fwl">030020040100000000000000011100001210609423</div><script src="http://webd.home.news.cn/webdig.js?z=1" type="text/javascript"></script><script type="text/javascript">wd_paramtracker("_wdxid=030020040100000000000000011100001210609423")</script><noscript><img border="0" src="http://webd.home.news.cn/1.gif?z=1&amp;_wdxid=030020040100000000000000011100001210609423"/></noscript></div> </body>
+</html>
